@@ -3160,8 +3160,7 @@ static const struct display_layout_block LAYOUT_PERIPHERAL_IDLE_BLOCKS[1] = {
   "peripheralIdleTimeoutSec": 30,
   "peripheralScreenOffTimeoutSec": 25,
   "enabledScreens": [
-    "central",
-    "peripheral"
+    "central"
   ],
   "shieldId": "corne",
   "displayAssignments": {
